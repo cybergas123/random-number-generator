@@ -2,7 +2,7 @@
 
 ## Number Generator Install Guide - GNU/Linux
 
-## 1. Download file for linux : https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-linux
+## 1. Download file for linux :  [![Download](https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-mac)](https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-linux)
 
  
 ## 2 :  open terminal
