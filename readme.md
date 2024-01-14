@@ -1,4 +1,33 @@
-# Windows warning
+
+
+## Number Generator Install Guide - GNU/Linux
+
+## 1. Download file for linux :  [![Download](https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-mac)](https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-linux)
+
+ 
+## 2 :  open terminal
+
+
+## 3 :  cd folder you downloaded it in usualy it is Downloads
+
+```bash
+cd Downloads
+```
+
+
+## 4 :  
+```bash
+chmod +x randomnumbergenerator
+```
+## 5 :
+```bash
+./randomnumbergenerator
+```
+
+## 6 : press enter
+
+
+## Windows warning
 
 to use it usably must use cmd  else it will shut off after it is done generating no possiblity to see the numbers
 
