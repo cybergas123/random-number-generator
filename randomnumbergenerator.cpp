@@ -7,7 +7,7 @@ int main(){
     //message
     cout << "please input amount of numbers to generate : ";
 
-    //generatenumbers
+    //generate numbers
     int generatenumbers = 0;
 
     cin >> generatenumbers;
