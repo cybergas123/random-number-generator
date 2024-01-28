@@ -24,7 +24,7 @@ int main(){
 
     for (int i = 0; i < generatenumbers; i++)
     {
-        //num
+        //numbers + sum
         int num = rand()%(to-from)+from;
         cout << num << " ";
     }
