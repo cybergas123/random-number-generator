@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int main(){
     //message
     cout << "please input amount of numbers to generate : ";
