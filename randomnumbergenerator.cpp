@@ -10,7 +10,7 @@ int main(){
     //generate numbers
     int generatenumbers = 0;
 
-    cin >> generatenumbers;
+    cin >> generatenumbers; 
 
     //range of numbers from to 
     int from = 0,to = 0;
