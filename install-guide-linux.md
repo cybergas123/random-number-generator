@@ -5,7 +5,7 @@
 ## 1. Download file for linux :  [![Download](https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-mac)](https://github.com/cybergas123/random-number-generator/raw/main/randomnumbergenerator-linux)
 
  
-## 2 :  open terminal
+## 2 :  open terminal 
 
 
 ## 3 :  cd folder you downloaded it in usualy it is Downloads - cd Downloads
