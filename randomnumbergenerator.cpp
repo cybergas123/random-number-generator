@@ -15,7 +15,7 @@ int main(){
     int from = 0,to = 0;
     cout << "please input range of numbers : ";
     cout << "from : ";
-    cin >> from;    
+    cin >> from;  
     cout << "to : ";
     cin >> to;
 
