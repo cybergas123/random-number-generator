@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    //message
+    //message 
     cout << "please input amount of numbers to generate : ";
 
     //generate numbers
